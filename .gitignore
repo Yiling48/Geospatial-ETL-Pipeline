@@ -1,0 +1,22 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local/raw data
+data/raw/
+data/private/
+outputs/
+*.csv
+
+# Environment files
+.env
+.env.*
+
+# OS/editor
+.vscode/
+.idea/
