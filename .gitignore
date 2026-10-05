@@ -11,7 +11,6 @@ Thumbs.db
 data/raw/
 data/private/
 outputs/
-*.csv
 
 # Environment files
 .env
