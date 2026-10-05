@@ -1,0 +1,4 @@
+pandas>=2.0
+geocoder>=1.38
+geopy>=2.4
+pytest>=8.0
